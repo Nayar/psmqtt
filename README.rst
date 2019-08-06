@@ -12,8 +12,10 @@ Is written in Python and based on briliant `psutil <https://github.com/giampaolo
 Installation
 ============
 Just install required Python libraries using `pip <https://pip.pypa.io/en/stable/installing/>`_::
-   git clone https://github.com/Nayar/psmqtt.git /opt/
-   pip3 install -r requirements.txt
+
+  git clone https://github.com/Nayar/psmqtt.git /opt/psmqtt
+   
+  pip3 install -r requirements.txt
    
 After you can run main file using::
 
