@@ -13,11 +13,11 @@ Installation
 ============
 Just install required Python libraries using `pip <https://pip.pypa.io/en/stable/installing/>`_::
 
-   pip install -r requirements.txt
+   pip3 install -r requirements.txt
    
 After you can run main file using::
 
-  python psmqtt.py
+  python3 psmqtt.py
 
   
 ===============================================
